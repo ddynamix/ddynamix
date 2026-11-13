@@ -1,12 +1,12 @@
 <div align="center">
 
 ```text
-         ████████╗ ██╗   ██╗ ██╗      ███████╗ ██████╗
-         ╚══██╔══╝ ╚██╗ ██╔╝ ██║      ██╔════╝ ██╔══██╗
-            ██║     ╚████╔╝  ██║      █████╗   ██████╔╝
-            ██║      ╚██╔╝   ██║      ██╔══╝   ██╔══██╗
-            ██║       ██║    ███████╗ ███████╗ ██║  ██║
-            ╚═╝       ╚═╝    ╚══════╝ ╚══════╝ ╚═╝  ╚═╝
+████████╗ ██╗   ██╗ ██╗      ███████╗ ██████╗
+╚══██╔══╝ ╚██╗ ██╔╝ ██║      ██╔════╝ ██╔══██╗
+   ██║     ╚████╔╝  ██║      █████╗   ██████╔╝
+   ██║      ╚██╔╝   ██║      ██╔══╝   ██╔══██╗
+   ██║       ██║    ███████╗ ███████╗ ██║  ██║
+   ╚═╝       ╚═╝    ╚══════╝ ╚══════╝ ╚═╝  ╚═╝
 
 ███████╗ ████████╗ ███████╗ ██████╗  ████████╗  ██████╗  ███████╗
 ██╔════╝ ╚══██╔══╝ ██╔════╝ ██╔══██╗ ╚══██╔══╝ ██╔═══██╗ ██╔════╝
@@ -33,11 +33,8 @@ name:      Tyler Steptoe
 based:     Toronto, ON
 studying:  HBSc Computer Science + Cognitive Science @ University of Toronto
 minor:     Cinema Studies
-grad:      January 2027
-interned:  Parlay Games Inc.  ·  Propel Holdings
-into:      back-end, design, hackathons, building weird new things
 building:  a Fabric mod that paints block gradients for Minecraft builders
-fuel:      espresso, pulled properly
+hobbies:   minecraft modding, espresso dialing, movie watching 
 ```
 
 ### `~ $ cat skills.txt`
