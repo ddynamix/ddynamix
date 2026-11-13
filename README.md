@@ -78,27 +78,6 @@ public class Tyler {
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ddynamix&show_icons=true&rank_icon=github&bg_color=1E1410&title_color=C08552&text_color=F3E9DC&icon_color=E0A96D&hide_border=true&border_radius=10" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddynamix&layout=compact&langs_count=6&bg_color=1E1410&title_color=C08552&text_color=F3E9DC&hide_border=true&border_radius=10" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ddynamix&background=1E1410&border=3B2418&stroke=3B2418&ring=C08552&fire=E0A96D&currStreakNum=F3E9DC&currStreakLabel=C08552&sideNums=F3E9DC&sideLabels=C08552&dates=A88B79&hide_border=true&border_radius=10" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ddynamix&bg_color=1E1410&color=F3E9DC&line=C08552&point=E0A96D&area=true&area_color=C08552&title_color=C08552&hide_border=true&radius=10" alt="Contribution activity graph" />
-</p>
-
----
-
-<p align="center">
-  <i>Thanks for stopping by — grab a coffee and have a look around ☕</i>
-</p>
-
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C08552,50:3B2418,100:1E1410&height=120&section=footer" width="100%" alt="" />
